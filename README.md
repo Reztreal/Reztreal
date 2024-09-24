@@ -9,15 +9,16 @@ I'm a passionate game developer with experience in Unity and a strong foundation
 
 <table>
   <tr>
-    <td>
+    <td style="width: 100%; padding: 10px;">
       <a href="https://github.com/Reztreal/RTS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reztreal&repo=RTS" alt="RTS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reztreal&repo=RTS" alt="RTS" style="width: 100%; max-width: 500px;">
       </a>
     </td>
-    <td>
+    <td style="width: 100%; padding: 10px;">
       <a href="https://github.com/Reztreal/Gitlet">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reztreal&repo=Gitlet&cache_bust=1" alt="Gitlet">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reztreal&repo=Gitlet&cache_bust=1" alt="Gitlet" style="width: 100%; max-width: 500px;">
       </a>
     </td>
   </tr>
 </table>
+
