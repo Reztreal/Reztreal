@@ -7,12 +7,17 @@ I'm a passionate game developer with experience in Unity and a strong foundation
 
 ## Extra Repos
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://github.com/Reztreal/RTS" style="margin: 10px; flex: 1 1 300px; max-width: 100px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reztreal&repo=RTS" alt="RTS" style="width: 100%; max-width: 100px;">
-  </a>
-  <a href="https://github.com/Reztreal/Gitlet" style="margin: 10px; flex: 1 1 300px; max-width: 100px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reztreal&repo=Gitlet" alt="Gitlet" style="width: 100%; max-width: 100px;">
-  </a>
-</div>
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Reztreal/RTS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reztreal&repo=RTS" alt="RTS">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Reztreal/Gitlet">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reztreal&repo=Gitlet&cache_bust=1" alt="Gitlet">
+      </a>
+    </td>
+  </tr>
+</table>
