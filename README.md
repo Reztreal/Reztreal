@@ -9,7 +9,7 @@ I'm a passionate game developer with experience in Unity and a strong foundation
 
 <p align="center">
   <a href="https://github.com/Reztreal/RTS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reztreal&repo=RTS" alt="RTS" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reztreal&repo=RTS&cache_bust=1" alt="RTS" width="45%">
   </a>
   <a href="https://github.com/Reztreal/Gitlet">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reztreal&repo=Gitlet&cache_bust=1" alt="Gitlet" width="45%">
