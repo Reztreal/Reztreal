@@ -7,18 +7,16 @@ I'm a passionate game developer with experience in Unity and a strong foundation
 
 ## Extra Repos
 
-<table>
-  <tr>
-    <td style="width: 100%; padding: 10px;">
-      <a href="https://github.com/Reztreal/RTS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reztreal&repo=RTS" alt="RTS" style="width: 100%; max-width: 500px;">
-      </a>
-    </td>
-    <td style="width: 100%; padding: 10px;">
-      <a href="https://github.com/Reztreal/Gitlet">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reztreal&repo=Gitlet&cache_bust=1" alt="Gitlet" style="width: 100%; max-width: 500px;">
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="flex: 1; margin: 10px; min-width: 300px; max-width: 45%;">
+    <a href="https://github.com/Reztreal/RTS">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reztreal&repo=RTS" alt="RTS" style="width: 100%;">
+    </a>
+  </div>
+  <div style="flex: 1; margin: 10px; min-width: 300px; max-width: 45%;">
+    <a href="https://github.com/Reztreal/Gitlet">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reztreal&repo=Gitlet&cache_bust=1" alt="Gitlet" style="width: 100%;">
+    </a>
+  </div>
+</div>
 
