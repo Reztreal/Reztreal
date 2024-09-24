@@ -7,16 +7,17 @@ I'm a passionate game developer with experience in Unity and a strong foundation
 
 ## Extra Repos
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="flex: 1; margin: 10px; min-width: 300px; max-width: 400px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; max-width: 1200px; margin: 0 auto;">
+  <div style="flex: 1 1 300px; margin: 10px; max-width: 45%;">
     <a href="https://github.com/Reztreal/RTS">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reztreal&repo=RTS" alt="RTS" style="width: 100%; max-width: 400px;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reztreal&repo=RTS" alt="RTS" style="width: 100%; max-width: 500px; height: auto;">
     </a>
   </div>
-  <div style="flex: 1; margin: 10px; min-width: 300px; max-width: 400px;">
+  <div style="flex: 1 1 300px; margin: 10px; max-width: 45%;">
     <a href="https://github.com/Reztreal/Gitlet">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reztreal&repo=Gitlet&cache_bust=1" alt="Gitlet" style="width: 100%; max-width: 400px;">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reztreal&repo=Gitlet&cache_bust=1" alt="Gitlet" style="width: 100%; max-width: 500px; height: auto;">
     </a>
   </div>
 </div>
+
 
